@@ -1,0 +1,1 @@
+export const prepareTime =(time)=> time < 10 ? '0'+time:time;
